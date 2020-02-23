@@ -1,6 +1,6 @@
 # Firebase
-Firebase Authentication
-Firebase Database
+* Firebase Authentication
+* Firebase Database
 
 ## Prerequisites
 * Supported Android 4.1 or newer
