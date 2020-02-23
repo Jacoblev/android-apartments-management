@@ -10,9 +10,6 @@ Firebase Authentication code guideline for Android developer
 * Sign-in with Email and Password
 * Verify user's email
 * Sign-in with Google log-in
-* Sign-in with Facebook log-in
-* Sign-in with Twitter log-in
-* Sign-in with Anonymous
 * Update user's profile
 * Update user's email
 * Update user's password
@@ -22,11 +19,14 @@ Firebase Authentication code guideline for Android developer
 ## Screenshots
 <table width="100%">
 	<tr>
-	  <th width="33%"><img src="https://cloud.githubusercontent.com/assets/1763410/17030580/4eb8f68a-4f9a-11e6-81c6-99241d14961f.png"></th>
-	  <th width="33%"><img src="https://cloud.githubusercontent.com/assets/1763410/17030587/5b3c0d52-4f9a-11e6-97bc-a2ce140eb25a.png"></th>
-	  <th width="33%"><img src="https://cloud.githubusercontent.com/assets/1763410/17030599/69df7e3e-4f9a-11e6-8fce-a7304a0f5e08.png"></th>
+	  <th width="33%"><img width="373" alt="Screen Shot 2020-02-23 at 9 18 30" src="https://user-images.githubusercontent.com/33245785/75105563-a6c21900-561d-11ea-9706-d8556dd54fb7.png"></th>
+	  <th width="33%"><img width="373" alt="Screen Shot 2020-02-23 at 9 18 35" src="https://user-images.githubusercontent.com/33245785/75105564-a9247300-561d-11ea-851e-af2dc1f3688a.png"></th>
+	  <th width="33%"><img width="373" alt="Screen Shot 2020-02-23 at 9 18 43" src="https://user-images.githubusercontent.com/33245785/75105565-a9bd0980-561d-11ea-9396-5bd7cb4e025e.png"></th>
+	  <th width="33%"><img width="373" alt="Screen Shot 2020-02-23 at 9 18 50" src="https://user-images.githubusercontent.com/33245785/75105567-aaee3680-561d-11ea-90a1-a639836aa740.png"></th>
+	  <th width="33%"><img width="373" alt="Screen Shot 2020-02-23 at 9 18 59" src="https://user-images.githubusercontent.com/33245785/75105569-ad509080-561d-11ea-9bf0-56a126165b49.png"></th>
+	  <th width="33%"><img width="373" alt="Screen Shot 2020-02-23 at 9 19 06" src="https://user-images.githubusercontent.com/33245785/75105570-ad509080-561d-11ea-8df4-a6bbda312dfb.png"></th>
+	  <th width="33%"><img width="373" alt="Screen Shot 2020-02-23 at 9 19 19" src="https://user-images.githubusercontent.com/33245785/75105571-ade92700-561d-11ea-9b69-c63760eef648.png">
+</th>
 	</tr>
 </table>
 
-## Blog
-[Firebase Authentication](https://medium.com/@jirawatee/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-firebase-authentication-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88-zero-%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-hero-7dd5839d3588)
