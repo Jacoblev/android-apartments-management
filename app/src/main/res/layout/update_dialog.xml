@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/textView5"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:hint="Enter Title"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Enter New Name"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="51dp" />
+
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:text="Update"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <Button
+        android:id="@+id/buttonDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete" />
+
+    <EditText
+        android:id="@+id/edit_file_text"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Enter New Image Name"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="51dp" />
+
+    <Button
+        android:id="@+id/button_image_browse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose File" />
+
+    <Button
+    android:id="@+id/button_image_upload"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Upload Image" />
+
+    <Button
+        android:id="@+id/button_image_show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Images" />
+
+
+</LinearLayout>
